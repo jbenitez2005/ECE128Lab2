@@ -7,7 +7,7 @@ Simulation was done in Vivado, and the design was tested on the **Basys3 FPGA bo
 
 
 
-## ▶️ Simulation Instructions
+## ▶Simulation Instructions
 1. Open Vivado.
 2. Create a new project and add the Verilog files and the testbench.
 3. Update constraints file to use appropriate LEDS, switches...
